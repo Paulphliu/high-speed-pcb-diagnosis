@@ -1,0 +1,5 @@
+﻿,pred_normal,pred_warning,pred_out_of_spec,pred_severe
+true_normal,5092,0,0,0
+true_warning,19,812,0,0
+true_out_of_spec,0,1,45,0
+true_severe,0,0,1,30

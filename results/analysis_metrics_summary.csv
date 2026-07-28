@@ -1,0 +1,9 @@
+﻿level,task,accuracy,samples
+measurement,stage1_overall_status,0.9971666666666666,6000
+measurement,stage1_impedance_status,0.9965,6000
+measurement,stage1_loss_status,0.9988333333333334,6000
+measurement,stage2_root_cause,0.7341666666666666,6000
+measurement,stage2_signal_group,0.8083333333333333,6000
+lot,stage3_primary_lot_diagnosis,0.9333333333333333,30
+lot,stage3_lot_diagnosis,0.9333333333333333,30
+lot,stage3_engineering_match,1.0,30

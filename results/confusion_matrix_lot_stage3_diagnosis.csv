@@ -1,0 +1,8 @@
+﻿,pred_normal_lot,pred_lot_global_loss_issue,pred_lot_global_impedance_width_issue,pred_single_board_issue,pred_fixed_test_point_structure_issue,pred_random_local_defect,pred_mixed_issue
+true_normal_lot,5,0,0,0,0,0,0
+true_lot_global_loss_issue,0,6,0,0,0,0,0
+true_lot_global_impedance_width_issue,0,0,6,0,0,0,0
+true_single_board_issue,0,0,0,5,0,0,0
+true_fixed_test_point_structure_issue,0,0,0,0,4,0,0
+true_random_local_defect,1,0,0,0,0,1,0
+true_mixed_issue,0,2,0,0,0,0,0

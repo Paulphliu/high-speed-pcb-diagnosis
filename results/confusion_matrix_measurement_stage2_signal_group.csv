@@ -1,0 +1,7 @@
+﻿,pred_normal,pred_loss_related,pred_impedance_width,pred_local_defect,pred_via_stub,pred_return_path_issue
+true_normal,2832,448,348,0,0,0
+true_loss_related,2,1240,0,0,0,0
+true_impedance_width,338,6,711,0,0,0
+true_local_defect,0,3,0,33,0,5
+true_via_stub,0,0,0,0,21,0
+true_return_path_issue,0,0,0,0,0,13

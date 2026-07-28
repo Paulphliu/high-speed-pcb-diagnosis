@@ -1,0 +1,8 @@
+﻿,pred_normal_production,pred_roughness_high,pred_high_df,pred_width_variation,pred_local_defect,pred_via_stub,pred_return_path_issue
+true_normal_production,3050,178,196,204,0,0,0
+true_roughness_high,2,271,348,0,0,0,0
+true_high_df,1,241,379,0,0,0,0
+true_width_variation,417,0,0,638,0,0,0
+true_local_defect,0,0,3,0,33,0,5
+true_via_stub,0,0,0,0,0,21,0
+true_return_path_issue,0,0,0,0,0,0,13
