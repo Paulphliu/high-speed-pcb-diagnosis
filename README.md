@@ -73,6 +73,10 @@ This repository is intended for:
 
 The framework is not intended to replace calibrated laboratory measurements, full-wave electromagnetic simulation, or professional signal-integrity analysis.
 
+## Dataset Availability
+
+The simulation-derived datasets are not included in this repository because of their size. Both the training dataset and the independent PN06 validation dataset can be regenerated using the provided Python scripts.
+
 ## Repository Contents
 
 The repository will include:
@@ -80,10 +84,6 @@ The repository will include:
 ```text
 high-speed-pcb-diagnosis/
 ├── src/              # Python source code
-├── sample_data/      # Example input datasets
-├── models/           # Trained model files
-├── examples/         # Demonstration scripts
 ├── results/          # Example diagnostic outputs
-├── docs/             # Technical documentation
 ├── requirements.txt  # Python dependencies
 └── README.md
